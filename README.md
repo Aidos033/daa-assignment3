@@ -10,7 +10,7 @@ You are to solve the following graph problems. Each problem is 5 points.
 6. [Software Dependency Cycles using Tarjan](Problem06.md) **(5 points)**
 7. [Course Schedule using DFS with cycle detection](Problem07.md) **(5 points)**.
 8. [Course Schedule using Kahn](Problem08.md) **(5 points)**.
-9. [Course Schedule II using DFS with reverse finishing order](https://leetcode.com/problems/course-schedule-ii) **(5 points)**.
-10. [Course Schedule II using Kahn](https://leetcode.com/problems/course-schedule-ii) **(5 points)**.
+9. [Course Schedule II using DFS with reverse finishing order](Problem09.md) **(5 points)**.
+10. [Course Schedule II using Kahn](Problem10.md) **(5 points)**.
 
 **Write and defend** a report describing your solutions for each problem in [REPORT.md](REPORT.md) **(50 points)**.
