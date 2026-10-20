@@ -10,7 +10,7 @@ You are to solve the following graph problems. Each problem is 5 points.
 6. [Strongly Connected Components using Tarjan](Problem06.md) **(5 points)**
 7. [Course Schedule using DFS with cycle detection](https://leetcode.com/problems/course-schedule) **(5 points)**.
 8. [Course Schedule using Kahn](https://leetcode.com/problems/course-schedule) **(5 points)**.
-9. [Course Schedule using DFS with reverse finishing order](https://leetcode.com/problems/course-schedule) **(5 points)**.
-10. [Course Schedule using Kahn](https://leetcode.com/problems/course-schedule) **(5 points)**.
+9. [Course Schedule II using DFS with reverse finishing order](https://leetcode.com/problems/course-schedule-ii) **(5 points)**.
+10. [Course Schedule II using Kahn](https://leetcode.com/problems/course-schedule-ii) **(5 points)**.
 
 **Write and defend** a report describing your solutions for each problem in [REPORT.md](REPORT.md) **(50 points)**.
