@@ -41,6 +41,6 @@ public int countDependencyGroups(int n, int[][] dependencies){
 
 #### Constraints
 + $1 \leq n \leq 10^5$
-+ $0 \leq dependencies.length \leq 2 \cdor 10^5$
++ $0 \leq dependencies.length \leq 2 \cdot 10^5$
 + $0 \leq dependencies[i][0], dependencies[i][1] < n$
 Good Luck!
