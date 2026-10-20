@@ -1,4 +1,4 @@
-### Problem 5 - Software Dependency Cycles (10 points)
+### Problem 5 - Software Dependency Cycles (5 points)
 
 A software company maintains a collection of software modules.
 Some modules depend on others: if module $A$ depends on module $B$, then $B$ must be available for $A$ to function correctly.

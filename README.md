@@ -6,8 +6,8 @@ You are to solve the following graph problems. Each problem is 5 points.
 2. [Number of Provinces using DSU](Problem02.md) **(5 points)**.
 3. [Min Cost to Connect All Points using Kruskal](Problem03.md) **(5 points)**.
 4. [Min Cost to Connect All Points using Prim](Problem04.md) **(5 points)**.
-5. [Strongly Connected Components using Kosaraju](Problem05.md) **(5 points)**.
-6. [Strongly Connected Components using Tarjan](Problem06.md) **(5 points)**
+5. [Software Dependency Cycles using Kosaraju](Problem05.md) **(5 points)**.
+6. [Software Dependency Cycles using Tarjan](Problem06.md) **(5 points)**
 7. [Course Schedule using DFS with cycle detection](https://leetcode.com/problems/course-schedule) **(5 points)**.
 8. [Course Schedule using Kahn](https://leetcode.com/problems/course-schedule) **(5 points)**.
 9. [Course Schedule II using DFS with reverse finishing order](https://leetcode.com/problems/course-schedule-ii) **(5 points)**.
