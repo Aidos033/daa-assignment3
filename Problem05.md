@@ -29,7 +29,7 @@ public int countDependencyGroups(int n, int[][] dependencies){
 #### Example 1
 + Input: `n = 5, dependencies = [[0,1], [1,2], [2,0], [2,3], [3,4]]`
 + Output: `3`
-+ Explanation: there are 3 groups {0, 1, 2}, {3}, {4}
++ Explanation: there are `3` groups `{0, 1, 2}, {3}, {4}`.
 
 #### Example 2
 + Input: `n = 4, dependencies = [[0,1], [1,0], [2,3], [3,2]]`
