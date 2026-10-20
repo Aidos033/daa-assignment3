@@ -4,8 +4,8 @@ You are to solve the following graph problems. Each problem is 5 points.
 
 1. [Number of Provinces using DFS](Problem01.md) **(5 points)**.
 2. [Number of Provinces using DSU](Problem02.md) **(5 points)**.
-3. [Min Cost to Connect All Points using Kruskal](https://leetcode.com/problems/min-cost-to-connect-all-points) **(5 points)**.
-4. [Min Cost to Connect All Points using Prim](https://leetcode.com/problems/min-cost-to-connect-all-points) **(5 points)**.
+3. [Min Cost to Connect All Points using Kruskal](Problem03.md) **(5 points)**.
+4. [Min Cost to Connect All Points using Prim](Problem04.md) **(5 points)**.
 5. [Strongly Connected Components using Kosaraju](Problem05.md) **(5 points)**.
 6. [Strongly Connected Components using Tarjan](Problem06.md) **(5 points)**
 7. [Course Schedule using DFS with cycle detection](https://leetcode.com/problems/course-schedule) **(5 points)**.
